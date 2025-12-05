@@ -189,12 +189,4 @@ pip install -r backend/requirements.txt
 
 Proyecto educativo / demo. Ajusta y usa según tus necesidades. Algunas claves públicas de ejemplo están incluidas en los scripts — reemplázalas antes de exponer el servicio.
 
---
 
-Si quieres, puedo:
-
-- Ejecutar comprobaciones rápidas (buscar dependencias faltantes actuales).
-- Añadir un script de PowerShell `scripts/setup-backend.ps1` para automatizar creación del venv e instalación.
-- Crear instrucciones adicionales para desplegar con Docker/Compose.
-
-¿Qué prefieres que haga ahora?
